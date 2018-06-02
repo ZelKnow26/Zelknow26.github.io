@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## ZelKnow26的个人博客
 
-You can use the [editor on GitHub](https://github.com/ZelKnow26/Zelknow26.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+可以使用[editor on Github](https://github.com/ZelKnow26/Zelknow26.github.io/edit/master/README.md)去维持和预览你在Markdown文件中的网页内容。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+当你对该repository进行commit时，Github Pages会运行[Jekyll](https://jekyllrb.com/)去根据你的Markdown文件重构你网页。
 
 ### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown是一个轻量和易用的个性化你的写作的语法。它包含了如下约定：
 
 ```markdown
-Syntax highlighted code block
+带语法高亮的代码块
 
-# Header 1
-## Header 2
-### Header 3
+# 标题一
+## 标题二
+### 标题三
 
-- Bulleted
-- List
+- 无序
+- 列表
 
-1. Numbered
-2. List
+1. 有序
+2. 列表
 
-**Bold** and _Italic_ and `Code` text
+**加粗** 和 _斜体_ 和 `Code` 代码块
 
-[Link](url) and ![Image](src)
+[连接](url) and ![图片](src)
 ```
+更多细节请见[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Jekyll 主题
 
-### Jekyll Themes
+你的网页会使用来自你在[repository settings](https://github.com/ZelKnow26/Zelknow26.github.io/settings)选择的Jekyll主题的布局和风格。该主题的名字储存在Jekyll `_config.yml`设置文件中。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZelKnow26/Zelknow26.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 支持和联系方式
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+使用Pages时遇到问题？参见我们的[documentation](https://help.github.com/categories/github-pages-basics/)或者[contact support](https://github.com/contact)，我们会帮助你解决问题。
