@@ -3,9 +3,9 @@ layout: post
 title: Hello World!
 author: ZelKnow26
 tagline: "Welcome to my blog!"
-date: 2018.06.02 13:18:32 +0800
-categories: Blog
-tag: Blog
+date: 2018.06.02 13:18:32
+categories: learn
+tag: learn
 ---
 
 第一篇文章

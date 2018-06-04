@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # The Cayman Blog theme
 
 [![Build Status](https://travis-ci.org/lorepirri/cayman-blog.svg?branch=master)](https://travis-ci.org/lorepirri/cayman-blog) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-cayman-blog.svg)](https://badge.fury.io/rb/jekyll-theme-cayman-blog)
@@ -201,3 +202,40 @@ If you'd like to preview the theme locally (for example, in the process of propo
 ### Running tests
 
 The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` one before the test script will work.
+=======
+## ZelKnow26的个人博客
+
+可以使用[editor on Github](https://github.com/ZelKnow26/Zelknow26.github.io/edit/master/README.md)去维持和预览你在Markdown文件中的网页内容。
+
+当你对该repository进行commit时，Github Pages会运行[Jekyll](https://jekyllrb.com/)去根据你的Markdown文件重构你网页。
+
+### Markdown
+Markdown是一个轻量和易用的个性化你的写作的语法。它包含了如下约定：
+
+```markdown
+带语法高亮的代码块
+
+# 标题一
+## 标题二
+### 标题三
+
+- 无序
+- 列表
+
+1. 有序
+2. 列表
+
+**加粗** 和 _斜体_ 和 `Code` 代码块
+
+[连接](url) and ![图片](src)
+```
+更多细节请见[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)。
+
+### Jekyll 主题
+
+你的网页会使用来自你在[repository settings](https://github.com/ZelKnow26/Zelknow26.github.io/settings)选择的Jekyll主题的布局和风格。该主题的名字储存在Jekyll `_config.yml`设置文件中。
+
+### 支持和联系方式
+
+使用Pages时遇到问题？参见我们的[documentation](https://help.github.com/categories/github-pages-basics/)或者[contact support](https://github.com/contact)，我们会帮助你解决问题。
+>>>>>>> f34a469e6a0662f226882d0206a26f29cbaff0ca
