@@ -146,4 +146,4 @@ Configuration file: /Users/username/Blog/_config.yml
 git push origin master
 ```
 
-然后进入 http://github.com/username/username.github.io （username为你的github用户名）便可查看你的博客啦！
+然后进入 `http://github.com/username/username.github.io` （username为你的github用户名）便可查看你的博客啦！
