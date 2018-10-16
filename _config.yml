@@ -1,19 +1,27 @@
-# Site settings
-title: CS231n Convolutional Neural Networks for Visual Recognition
-email: karpathy@cs.stanford.edu
-description: "Course materials and notes for Stanford class CS231n: Convolutional Neural Networks for Visual Recognition."
-baseurl: ""
-url: "http://cs231n.github.io"
-twitter_username: cs231n
-github_username:  cs231n
+title: ZelKnow26的个人博客
+description: Code, and share
+show_downloads: true
 
-# Build settings
-markdown: kramdown
-permalink: pretty
+baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+url: "https://ZelKnow26.github.io" # change this to the base hostname & protocol for your site
 
-highlighter: rouge
-kramdown:
-  input: GFM
-  auto_ids: true
-  syntax_highlighter: rouge
+google_analytics:
+# cayman-blog date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+cayman-blog:
+  date_format: "%b %-d, %Y"
 
+theme: # leave it empty
+
+# social
+author: "ZelKnow26"
+image: /thumbnail-jumbo.png
+#twitter:
+  #username: lorepirri
+#  site:
+#facebook:
+  #publisher: 1592372034171500
+  #profile_id: 1809805629
+  #app_id: 1798910940422432 # cayman-blog
+  #authors: lorepirri
+#  admins:
