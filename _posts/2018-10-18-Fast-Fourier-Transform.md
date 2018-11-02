@@ -1,3 +1,13 @@
+---
+layout: post
+title: 快速傅里叶变换
+author: ZelKnow26
+tagline: ""
+date: 2018.10.18 20:16:12
+categories: other
+tag: other
+---
+
 <head>
     <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
     <script type="text/x-mathjax-config">
@@ -10,15 +20,6 @@
     </script>
 </head>
 
----
-layout: post
-title: 快速傅里叶变换
-author: ZelKnow26
-tagline: ""
-date: 2018.10.18 20:16:12
-categories: other
-tag: other
----
 
 本文将介绍两种快速傅里叶变换的方法。
 
